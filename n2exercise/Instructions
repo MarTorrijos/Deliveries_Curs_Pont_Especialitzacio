@@ -1,0 +1,33 @@
+Create a class called "Phone" with the attributes brand and model, and the method call().
+This method must receive a String with a phone number.
+The method must display on the console a message saying that it is calling the received number by parameter.
+
+Create an interface called "Camera" with the method photograph(),
+and another interface called Clock with the method alarm().
+
+Create a class called "Smartphone" that is a subclass of "Phone"
+and that at the same time implements the interfaces "Camera" and "Clock".
+
+The method photograph() must display on the console: "A photo is being taken"
+The method alarm() must display: "The alarm is ringing".
+
+From the main() of the application, create a Smartphone object and call the above methods.
+
+________________________________________________________________________________________________________________________
+
+ORIGINAL INSTRUCTIONS IN CATALAN
+
+Crea una classe anomenada "Telèfon" amb els atributs marca i model, i el mètode trucar().
+Aquest mètode ha de rebre un String amb un número de telèfon.
+El mètode ha de mostrar per consola un missatge dient que s’està trucant al número rebut per paràmetre.
+
+Crea una interfície anomenada "Camera" amb el mètode fotografiar(),
+i una altra interfície anomenada Rellotge amb el mètode alarma().
+
+Crea una classe anomenada "Smartphone" que sigui subclasse de "Telèfon"
+i que a la vegada implementi les interfícies "Camera" i "Rellotge".
+
+El mètode fotografiar() ha de mostrar per consola: “S’està fent una foto”
+El mètode alarma() ha de mostrar: “Està sonant l’alarma”.
+
+Des del main() de l’aplicació, crea un objecte Smartphone i crida als mètodes anteriors.

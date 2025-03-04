@@ -1,0 +1,33 @@
+In a music group, there are different types of musical instruments. There are wind instruments, string instruments, and percussion instruments.
+
+All instruments have as attributes their name and their price. Additionally, they have a method called play().
+This method is abstract in the Instrument class and, therefore, must be implemented in the child classes.
+
+If a wind instrument is being played, the method should display on the console: "A wind instrument is sounding"
+If a string instrument is being played: "A string instrument is sounding"
+And if a percussion instrument is being played: "A percussion instrument is sounding".
+
+The process of loading a class only happens once.
+Demonstrate that the loading can be triggered by the creation of the first instance of this class
+or by accessing a static member of this class.
+
+Research information about initialization blocks and static blocks in Java.
+
+________________________________________________________________________________________________________________________
+
+ORIGINAL INSTRUCTIONS IN CATALAN
+
+En un grup de música hi ha diferents tipus d’instruments musicals. Hi ha instruments de vent, de corda i de percussió.
+
+Tots els instruments tenen com a atributs el seu nom, i el seu preu. A més, tenen un mètode anomenat tocar().
+Aquest, és abstracte a la classe instrument i, per tant, s’ha d’implementar a les classes filles.
+
+Si s’està tocant un instrument de vent, el mètode ha de mostrar per consola: "Està sonant un instrument de vent"
+Si s’està tocant un instrument de corda: “Està sonant un instrument de corda”
+I si s’està tocant un instrument de percussió: “Està sonant un instrument de percussió”.
+
+El procés de càrrega d'una classe només té lloc una vegada.
+Demostra que la càrrega pot ser provocada per la creació de la primera instància d'aquesta classe
+o per l'accés a un membre estàtic d'aquesta.
+
+Cerca informació sobre els blocs d'inicialització i blocs estàtics en Java
